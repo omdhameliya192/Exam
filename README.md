@@ -5,7 +5,7 @@
 Design a multi-user authentication module with Firebase Firestore DB. User roles should be: Admin, Manager, Clerk and Employee. Do not use any Firebase Authentication service, instead use Firebase Firestore to manually achieve this.
 If you log in as an Admin, you can add, update and delete all users otherwise you can just see all types of users.
 
-### --: Photos :--
+### Photos
 
 <p>
   <img align = "left"  src = "https://github.com/SJaynesh/firebase_final_exam/assets/115562979/137c7ca4-f8a3-4b92-a70b-650f3d0bed53.png" width=22% height=35% >
