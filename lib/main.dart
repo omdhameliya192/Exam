@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:multi_user_authentication/firebase_options.dart';
 import 'package:multi_user_authentication/views/screen/LoginScreen.dart';
 import 'package:multi_user_authentication/views/screen/homePage.dart';
 import 'package:multi_user_authentication/views/screen/splashScreen.dart';

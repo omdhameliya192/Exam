@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83804640101",
+    "project_id": "exam-d5185",
+    "storage_bucket": "exam-d5185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83804640101:android:5930421ae5bbb9b446078c",
+        "android_client_info": {
+          "package_name": "com.example.multi_user_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLYIk9VaT1Czb6vBNf_1nKgbvnerfYCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
